@@ -1,4 +1,4 @@
-#VietQR API
+# VietQR API
 
 VietQR là dịch vụ thanh toán, chuyển khoản bằng mã QR được xử lý qua mạng lưới Napas. 
 VietQR.io cung cấp giải pháp tạo mã QR nhanh chóng thông qua API.
